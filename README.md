@@ -1,1 +1,1 @@
-# CSE1021-Billing-Project
+This is the Smart Retail Billing System project for CSE1021.
